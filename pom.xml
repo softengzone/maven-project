@@ -66,11 +66,11 @@
 			<artifactId>derby</artifactId>
 			<version>${derby-ver}</version>
 		</dependency>
-		<dependency>
+<!-- 		<dependency>
   			<groupId>org.apache.activemq</groupId>
   			<artifactId>activemq-all</artifactId>
   			<version>${activemq-ver}</version>
-		</dependency>
+		</dependency> -->
 		<!-- Xml configuration -->
 		<dependency>
         	<groupId>com.mulesoft.muleesb</groupId>
